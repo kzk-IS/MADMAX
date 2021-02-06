@@ -1,1 +1,2 @@
-サーバの構築，特徴量抽出のモジュールなど
+This is the server side function in MADMAX.
+How to use is under preparation.

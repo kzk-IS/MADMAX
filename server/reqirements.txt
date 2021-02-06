@@ -1,0 +1,7 @@
+beautifulsoup4
+dnspython
+geoip2
+joblib
+numpy
+tldextract
+python-whois
